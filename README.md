@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
@@ -12,8 +12,10 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img height="500" src="https://media.tenor.com/upwh2YqsR1gAAAAM/superman-fly-superman.gif"  />
+  <img height="300" src="https://media.tenor.com/upwh2YqsR1gAAAAM/superman-fly-superman.gif"  />
 </div>
 
 ###
