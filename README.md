@@ -7,7 +7,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" src="https://media.tenor.com/upwh2YqsR1gAAAAM/superman-fly-superman.gif"  />
+  <img height="300" src="https://media.tenor.com/OiPpp9rHWzkAAAAM/superman-fly-superman.gif"  />
 </div>
 
 ###
