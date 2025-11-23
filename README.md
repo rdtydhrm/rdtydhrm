@@ -7,7 +7,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" src="https://media.tenor.com/OiPpp9rHWzkAAAAM/superman-fly-superman.gif"  />
+  <img height="500" src="https://media.tenor.com/OiPpp9rHWzkAAAAM/superman-fly-superman.gif"  />
 </div>
 
 ###
@@ -50,11 +50,11 @@
 
 ###
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rdtydhrm/rdtydhrm/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rdtydhrm/rdtydhrm/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rdtydhrm/rdtydhrm/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 ###
 
