@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<!-- 🎬 HEADER GIF — Cari di giphy.com, search "batman animated" atau "dc comics", kanan klik → Copy image address, paste di sini -->
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JkMnMwanQzN2s5ZWthb2V3NzM3Y3JxMGhnZ244MzJlNHJsZmNtYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EyJwrQ6YdClf5lowhv/200.webp" width="350" height="350" style="border-radius:12px;" />
+<!-- 🎬 HEADER GIF -->
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JkMnMwanQzN2s5ZWthb2V3NzM3Y3JxMGhnZ244MzJlNHJsZmNtYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EyJwrQ6YdClf5lowhv/200.webp" width="100%" height="250px" style="object-fit:cover;border-radius:10px;" />
 
 <br/>
 
@@ -21,7 +21,7 @@
 <!--                         ABOUT ME                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280" />
+<img align="right" src="https://media2.giphy.com/media/nudATSUjSWn6BAcqOm/giphy.webp" width="280" />
 
 ## ⚡ `> INITIALIZING PROFILE...`
 
