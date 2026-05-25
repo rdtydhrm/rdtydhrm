@@ -1,73 +1,149 @@
-<br clear="both">
-
-<h1 align="center">Hey, What's Up?</h1>
-
-###
-
-<br clear="both">
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    CYBERPUNK GITHUB PROFILE                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img height="500" src="https://media.tenor.com/OiPpp9rHWzkAAAAM/superman-fly-superman.gif"  />
+
+<!-- 🎬 HEADER GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="250px" style="object-fit:cover;border-radius:10px;" />
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=00FFFF&background=00000000&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Raditya+Dharma+%F0%9F%91%BE;Web+Developer+%F0%9F%92%BB;TI+FILKOM+Universitas+Brawijaya;Exploring+the+Digital+Universe+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 </div>
 
-###
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         ABOUT ME                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280" />
+
+## ⚡ `> INITIALIZING PROFILE...`
+
+```yaml
+name     : "Raditya Dharma"
+alias    : "@rdtydhrm"
+location : "Malang, Indonesia 🇮🇩"
+status   : "S1 Teknologi Informasi — FILKOM, Universitas Brawijaya"
+role     : "Web Developer & Future Software Tester"
+vibe     : "DC Universe stan 🦇 | Motorcycle rider 🏍️"
+goal     : "Sukses — satu commit at a time."
+```
+
+### 🧠 About Me
+
+> 💡 *Mahasiswa TI yang hobi ngulik website, lagi explore dunia software testing, dan sedang membangun sesuatu yang belum bisa diceritakan.*
+
+- 🔭 Lagi ngerjain: **[CLASSIFIED — project in stealth mode 🕵️]**
+- 🌱 Lagi belajar: **Software Testing & Quality Assurance**
+- 🌐 Main playground: **Web Development (Laravel · React · Tailwind)**
+- ⚡ Fun fact: **Kalau lagi stuck debugging, keluar motoran dulu. Balik udah solved sendiri 🏍️**
+- 🦇 Fandom: **DC Universe — always DC, never Marvel.**
+
+<br clear="right"/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        TECH STACK                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🛠️ `> TECH STACK`
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 </div>
 
-###
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       GITHUB STATS                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📊 `> SYSTEM STATS`
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <a href="instagram.com/radityadharmaa_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> &nbsp; *Loading stats from the grid...*
+
 </div>
 
-###
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rdtydhrm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rdtydhrm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=rdtydhrm&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rdtydhrm&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdtydhrm&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=00FFFF&text_color=FFFFFF"/>
+
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rdtydhrm/rdtydhrm/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rdtydhrm/rdtydhrm/output/pacman-contribution-graph.svg">
-  <!-- <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rdtydhrm/rdtydhrm/output/pacman-contribution-graph.svg"> -->
-</picture> 
-
-###
+<br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+
+<img src="https://streak-stats.demolab.com?user=rdtydhrm&theme=radical&hide_border=true&background=0D0D0D&stroke=00FFFF&ring=FF00FF&fire=FF6600&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=888888" />
+
 </div>
 
-###
+<br/>
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rdtydhrm&theme=react-dark&bg_color=0D0D0D&color=00FFFF&line=FF00FF&point=FFFFFF&hide_border=true" width="95%"/>
+
 </div>
 
-###
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        CONNECT                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🌐 `> CONNECT WITH ME`
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
+
+&nbsp;
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/radityadharmaa_)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         FOOTER                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/3og0IPxMM0erATueVW/giphy.gif" width="100%" height="120px" style="object-fit:cover;" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=rdtydhrm&color=00FFFF&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br/>
+
+*"It's not who I am underneath, but what I do that defines me."* 🦇
+
+</div>
