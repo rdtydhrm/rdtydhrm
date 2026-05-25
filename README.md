@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- 🎬 HEADER GIF -->
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBwNXU2Z3EzMmo4Y2FrNTFwYW9qNzZ5aGR2OHByam9ocmhhYjBxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rb5RvuI5b0YFi/giphy.gif" width="100%" height="250px" style="object-fit:cover;border-radius:10px;" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpqZmJibjMxZGx0ejdjcnEzdnYxeWVzdzRlN2dubjgxZmc3aXEwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mHRxhuSlLADVFw4F6J/giphy.gif" width="100%" height="300px" style="object-fit:cover;border-radius:10px;" />
 
 <br/>
 
