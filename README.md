@@ -4,14 +4,16 @@
 
 <div align="center">
 
-<!-- 🎬 HEADER GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="250px" style="object-fit:cover;border-radius:10px;" />
+<!-- 🎬 HEADER GIF — Cari di giphy.com, search "batman animated" atau "dc comics", kanan klik → Copy image address, paste di sini -->
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JkMnMwanQzN2s5ZWthb2V3NzM3Y3JxMGhnZ244MzJlNHJsZmNtYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EyJwrQ6YdClf5lowhv/200.webp" width="350" height="350" style="border-radius:12px;" />
 
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=00FFFF&background=00000000&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Raditya+Dharma+%F0%9F%91%BE;Web+Developer+%F0%9F%92%BB;TI+FILKOM+Universitas+Brawijaya;Exploring+the+Digital+Universe+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
+
+<br/>
 
 ---
 
