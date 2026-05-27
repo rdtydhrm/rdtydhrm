@@ -13,7 +13,7 @@
 
 </div>
 
-
+<br/>
 
 ---
 
@@ -29,20 +29,20 @@
 name     : "Raditya Dharma"
 alias    : "@rdtydhrm"
 location : "Malang - Bali, Indonesia"
-status   : "S1 Teknologi Informasi — FILKOM, Universitas Brawijaya"
+status   : "Bachelor of Information Technology — FILKOM, Universitas Brawijaya"
 role     : "Frontend - Web Developer"
 vibe     : "DC Universe Maniac 🦇 | Ride Enjoyer 🏍️"
-goal     : "Sukses — Mau jadi Lex Luthor."
+goal     : "Success — becoming the next Lex Luthor."
 ```
 
 ### 🧠 About Me
 
-> 💡 *Mahasiswa TI yang hobi ngulik website, lagi explore jati diri, dan sedang membangun sesuatu yang belum bisa diceritakan.*
+> 💡 *IT student who loves tinkering with websites, still figuring out the path, and building something that can't be revealed just yet.*
 
-- 🔭 Lagi ngerjain: **[CLASSIFIED — project in stealth mode 🕵️]**
-- 🌱 Lagi belajar: **Seluk Beluk Website.**
+- 🔭 Currently working on: **[CLASSIFIED — project in stealth mode 🕵️]**
+- 🌱 Currently learning: **The ins and outs of web development.**
 - 🌐 Main playground: **Web Development (Laravel · React · Tailwind)**
-- ⚡ Fun fact: **Superman change my life a lot.**
+- ⚡ Fun fact: **Superman changed my life a lot.**
 - 🦇 Fav Quote: **I'm as human as anyone. I love, I get scared. I wake up every morning and, despite not knowing what to do, I put one foot in front of the other and I try to make the best choices I can. I screw up all the time. But that is being human.**
 
 <br clear="right"/>
