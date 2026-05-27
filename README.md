@@ -90,9 +90,9 @@ goal     : "Sukses — Mau jadi Lex Luthor."
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rdtydhrm&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=rdtydhrm&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdtydhrm&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=00FFFF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=rdtydhrm&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=00FFFF&text_color=FFFFFF&langs_count=8"/>
 
 </div>
 
