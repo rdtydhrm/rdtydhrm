@@ -28,22 +28,22 @@
 ```yaml
 name     : "Raditya Dharma"
 alias    : "@rdtydhrm"
-location : "Malang, Indonesia 🇮🇩"
+location : "Malang - Bali, Indonesia"
 status   : "S1 Teknologi Informasi — FILKOM, Universitas Brawijaya"
-role     : "Web Developer & Future Software Tester"
-vibe     : "DC Universe stan 🦇 | Motorcycle rider 🏍️"
-goal     : "Sukses — satu commit at a time."
+role     : "Frontend - Web Developer"
+vibe     : "DC Universe Maniac 🦇 | Ride Enjoyer 🏍️"
+goal     : "Sukses — Mau jadi Lex Luthor."
 ```
 
 ### 🧠 About Me
 
-> 💡 *Mahasiswa TI yang hobi ngulik website, lagi explore dunia software testing, dan sedang membangun sesuatu yang belum bisa diceritakan.*
+> 💡 *Mahasiswa TI yang hobi ngulik website, lagi explore jati diri, dan sedang membangun sesuatu yang belum bisa diceritakan.*
 
 - 🔭 Lagi ngerjain: **[CLASSIFIED — project in stealth mode 🕵️]**
-- 🌱 Lagi belajar: **Software Testing & Quality Assurance**
+- 🌱 Lagi belajar: **Seluk Beluk Website.**
 - 🌐 Main playground: **Web Development (Laravel · React · Tailwind)**
-- ⚡ Fun fact: **Kalau lagi stuck debugging, keluar motoran dulu. Balik udah solved sendiri 🏍️**
-- 🦇 Fandom: **DC Universe — always DC, never Marvel.**
+- ⚡ Fun fact: **Superman change my life a lot.**
+- 🦇 Fav Quote: **I'm as human as anyone. I love, I get scared. I wake up every morning and, despite not knowing what to do, I put one foot in front of the other and I try to make the best choices I can. I screw up all the time. But that is being human.**
 
 <br clear="right"/>
 
