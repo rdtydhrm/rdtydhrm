@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=#c90606&background=00000000&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Raditya+Dharma+%F0%9F%91%BE;Web+Developer+%F0%9F%92%BB;Exploring+the+Digital+Universe+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=c90606&background=00000000&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Raditya+Dharma+%F0%9F%91%BE;Web+Developer+%F0%9F%92%BB;Exploring+the+Digital+Universe+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
