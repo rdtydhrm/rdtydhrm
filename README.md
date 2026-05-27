@@ -122,7 +122,7 @@ goal     : "Sukses — Mau jadi Lex Luthor."
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
+<img src="https://media4.giphy.com/media/qJCS0thiLCcyyidwvH/200.webp" width="100" />
 
 &nbsp;
 
